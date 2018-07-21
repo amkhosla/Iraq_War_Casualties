@@ -1,0 +1,27 @@
+ 1 hostile fire - IED attack       1781
+ 2 hostile fire                     587
+ 3 hostile fire - small arms fire   390
+ 4 Non-hostile - vehicle accident   266
+ 5 Non-hostile                      228
+ 6 Non-hostile - helicopter crash   135
+ 7 hostile fire - mortar attack     105
+ 8 hostile fire - RPG attack        103
+ 9 hostile fire - car bomb          102
+10 helicopter crash                  79
+
+IED attacks form almost 40% of deaths. 
+Hostile fire (machine-gun or small arms) another 20%
+
+Non-hostile peak at the beginning. A learning curve?
+After that constant, but somewhat controllable?
+
+93% of casualties were from the US
+4% of casualties are from Great Britain/United Kingdom.
+
+20% of all casualties came from California(10.4%) and Texas(9.2%) followed by New York, Florida, Pennsylvania, and Ohio
+
+As you know, you go to war with the army you have, not the army you might want or wish to have at a later time. Since the Iraq conflict began, the Army has been pressing ahead to produce the armor necessary at a rate that they believe -- it's a greatly expanded rate from what existed previously, but a rate that they believe is the rate that is all that can be accomplished at this moment.
+"Troops put Rumsfeld in the hot seat". CNN. 2004-12-08. Retrieved on 2006-04-07.
+Responding to the question "Now why do we soldiers have to dig through local landfills for pieces of scrap metal and compromised ballistic glass to up armor our vehicles, and why don't we have those resources readily available to us?"
+
+http://duckofminerva.com/2007/04/whack-mole.html
